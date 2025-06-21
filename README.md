@@ -32,3 +32,11 @@ It features a professional GUI with "From" and "To" unit selectors, validation f
 ```bash
 pip install customtkinter
 python "temp converter gui.py"
+
+
+
+## 👤 Author
+
+**Boss**  
+[GitHub](https://github.com/eshapatle) | [LinkedIn](https://linkedin.com/in/esha-patle-10371330b)
+
