@@ -34,7 +34,7 @@ pip install customtkinter
 python "temp converter gui.py"
 
 
-
+---
 ## 👤 Author
 
 **Boss**  
