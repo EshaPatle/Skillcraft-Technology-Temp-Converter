@@ -35,8 +35,8 @@ python "temp converter gui.py"
 
 
 ---
-## 👤 Author
+👤 Author
 
-**Boss**  
-[GitHub](https://github.com/eshapatle) | [LinkedIn](https://linkedin.com/in/esha-patle-10371330b)
-
+Boss
+🔗 GitHub
+🔗 LinkedIn
