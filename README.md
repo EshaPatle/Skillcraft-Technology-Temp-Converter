@@ -24,6 +24,7 @@ It features a professional GUI with "From" and "To" unit selectors, validation f
 
 ## 🔗 Project Demo  
 🎥 Video Demo: [https://www.linkedin.com/posts/esha-patle-10371330b_python-tkinter-softwaredevelopment-activity-7342573507932774402-tqMi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7zKdMBnlUgPLhx7cyNvifWt30B6itGwTY]
+
 📂 GitHub Source Code: [https://github.com/EshaPatle/Skillcraft-Technology-Temp-Converter?tab=readme-ov-file] 
 
 ---
